@@ -142,33 +142,28 @@ public class SearchAcitvity extends Activity {
 
     public void getRequestData(String str) {
         RequestParams params = new RequestParams();
-        params.put("key", "92487fa9c850dd9f");
-        params.put("id", str.trim());
-        BaseAsyncHttp.getReq("http://api.daicuo.cc/douban/", params, new HttpResponseHandler() {
+        params.put("apikey", "0df993c66c0c636e29ecbb5344252a4a");
+        BaseAsyncHttp.getReq(str.trim(), params, new HttpResponseHandler() {
             @Override
             public void jsonSuccess(JSONObject resp) {
                 mBooks.clear();
 
-                JSONArray jsonbooks = resp.optJSONArray("books");
-                for (int i = 0; i < jsonbooks.length(); i++) {
-
-                    try {
-                        Book mBook = new Book();
-                        mBook.setTitle(jsonbooks.optJSONObject(i).optString("title"));
-                        String author = "";
-                        for (int j = 0; j < jsonbooks.optJSONObject(i).optJSONArray("author").length(); j++) {
-                            author = author + " " + jsonbooks.optJSONObject(i).optJSONArray("author").optString(j);
-                        }
-                        mBook.setAuthor(author);
-                        mBook.setBitmap(jsonbooks.optJSONObject(i).getString("image"));
-                        mBook.setPage(jsonbooks.optJSONObject(i).optString("pages"));
-                        mBooks.add(mBook);
-                    } catch (Exception e) {
-                        e.printStackTrace();
+                try {
+                    Book mBook = new Book();
+                    mBook.setTitle(resp.optString("title"));
+                    String author = "";
+                    for (int j = 0; j < resp.optJSONArray("author").length(); j++) {
+                        author = author + " " + resp.optJSONArray("author").optString(j);
                     }
+                    mBook.setAuthor(author);
+                    mBook.setBitmap(resp.getString("image"));
+                    mBook.setPage(resp.optString("pages"));
+                    mBooks.add(mBook);
+                } catch (Exception e) {
+                    e.printStackTrace();
                 }
-                updateToView();
-            }
+            updateToView();
+        }
 
             @Override
             public void jsonFail(JSONObject resp) {

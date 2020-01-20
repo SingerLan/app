@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6ad7b38d064917f156ed7091e623b242\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\f9d17fc2bcf4af77743f3621c6571938\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d3d1271faafd34bc2e9c8339fe542ea0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77bd6dd37c1d00747cbdf5b9a59b4c8d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca09b97d0765c41c182994acec11dc80\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7476353a015ac45a865faa71ec4687e5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e131d28b3dec73a19aa297bfe51c363\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5bafeb7b8d7e7169263413f05df79bae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\317bda5d66905397c9c1716d49507f0a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4ec60e5f5213ada9941185ba53f95b2\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8592c8df2c88ca538c33ebe58f3143ab\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6ad7b38d064917f156ed7091e623b242\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6ad7b38d064917f156ed7091e623b242\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\f9d17fc2bcf4af77743f3621c6571938\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\f9d17fc2bcf4af77743f3621c6571938\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d3d1271faafd34bc2e9c8339fe542ea0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d3d1271faafd34bc2e9c8339fe542ea0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77bd6dd37c1d00747cbdf5b9a59b4c8d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77bd6dd37c1d00747cbdf5b9a59b4c8d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca09b97d0765c41c182994acec11dc80\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca09b97d0765c41c182994acec11dc80\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7476353a015ac45a865faa71ec4687e5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7476353a015ac45a865faa71ec4687e5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e131d28b3dec73a19aa297bfe51c363\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e131d28b3dec73a19aa297bfe51c363\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5bafeb7b8d7e7169263413f05df79bae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5bafeb7b8d7e7169263413f05df79bae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\317bda5d66905397c9c1716d49507f0a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\317bda5d66905397c9c1716d49507f0a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4ec60e5f5213ada9941185ba53f95b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4ec60e5f5213ada9941185ba53f95b2\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8592c8df2c88ca538c33ebe58f3143ab\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8592c8df2c88ca538c33ebe58f3143ab\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:9:9-52
+activity#com.tyq.readprogress.MainActivity
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:theme
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:13:13-52
+	android:name
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.tyq.readprogress.SearchAcitvity
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:21:9-24:15
+	android:label
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:23:13-33
+	android:theme
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:22:13-60
+	android:name
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:21:19-49
+activity#com.tyq.readprogress.ViewActivity
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:25:9-27:33
+	android:label
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:27:13-31
+	android:theme
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:26:13-60
+	android:name
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:25:19-47
+activity#com.tyq.readprogress.AboutActivity
+ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:28:9-30:33
+	android:label
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:30:13-31
+	android:theme
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml:28:19-48
+uses-sdk
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6ad7b38d064917f156ed7091e623b242\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6ad7b38d064917f156ed7091e623b242\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\f9d17fc2bcf4af77743f3621c6571938\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\f9d17fc2bcf4af77743f3621c6571938\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d3d1271faafd34bc2e9c8339fe542ea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d3d1271faafd34bc2e9c8339fe542ea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77bd6dd37c1d00747cbdf5b9a59b4c8d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77bd6dd37c1d00747cbdf5b9a59b4c8d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca09b97d0765c41c182994acec11dc80\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca09b97d0765c41c182994acec11dc80\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7476353a015ac45a865faa71ec4687e5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7476353a015ac45a865faa71ec4687e5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e131d28b3dec73a19aa297bfe51c363\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e131d28b3dec73a19aa297bfe51c363\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5bafeb7b8d7e7169263413f05df79bae\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5bafeb7b8d7e7169263413f05df79bae\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\317bda5d66905397c9c1716d49507f0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\317bda5d66905397c9c1716d49507f0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4ec60e5f5213ada9941185ba53f95b2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4ec60e5f5213ada9941185ba53f95b2\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8592c8df2c88ca538c33ebe58f3143ab\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8592c8df2c88ca538c33ebe58f3143ab\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ReadProgress-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6ad7b38d064917f156ed7091e623b242\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6ad7b38d064917f156ed7091e623b242\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\f9d17fc2bcf4af77743f3621c6571938\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\f9d17fc2bcf4af77743f3621c6571938\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d3d1271faafd34bc2e9c8339fe542ea0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\d3d1271faafd34bc2e9c8339fe542ea0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77bd6dd37c1d00747cbdf5b9a59b4c8d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77bd6dd37c1d00747cbdf5b9a59b4c8d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca09b97d0765c41c182994acec11dc80\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca09b97d0765c41c182994acec11dc80\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7476353a015ac45a865faa71ec4687e5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7476353a015ac45a865faa71ec4687e5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e131d28b3dec73a19aa297bfe51c363\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e131d28b3dec73a19aa297bfe51c363\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5bafeb7b8d7e7169263413f05df79bae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5bafeb7b8d7e7169263413f05df79bae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\317bda5d66905397c9c1716d49507f0a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\317bda5d66905397c9c1716d49507f0a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4ec60e5f5213ada9941185ba53f95b2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a4ec60e5f5213ada9941185ba53f95b2\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0fa444e2e3a6035852b5fb3ea37e43a3\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8592c8df2c88ca538c33ebe58f3143ab\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8592c8df2c88ca538c33ebe58f3143ab\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lanxin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8592c8df2c88ca538c33ebe58f3143ab\AndroidManifest.xml:26:13-58
